@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+.custom-font {
+  font-family: 'Bungee Tint', cursive;
+  text-align: center;
+}
+h1, h2 {
+  color: #333;
+}
+a {
+  color: #1a73e8;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 10px;
+}
+p {
+  margin: 20px 0;
+  text-align: left;
+}
